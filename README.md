@@ -1,4 +1,4 @@
-# Blood_Bank_Management
+# Blood Bank Management System
 
 Objectives of the Blood Bank Management System are as follows:
 * To register a person as a donor or a patient.
