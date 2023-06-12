@@ -9,7 +9,8 @@ Objectives of the Blood Bank Management System are as follows:
 
 To sum up, the main purpose of the blood bank management system is to simplify the process of searching for blood or plasma in case of any emergency and maintain the records of donors, patients, blood or plasma donation camps and blood/plasma stocks in the bank.
 
-Made by:
-* Drishika (me😋)
+
+CONTRIBUTORS
+* Drishika
 * Ananya
-* Devika, for college mini project work
+* Devika
